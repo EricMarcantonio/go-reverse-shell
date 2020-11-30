@@ -7,5 +7,7 @@
 ### Future
 
 [ ] create client and server executables
+
 [ ] create a make file that builds across platforms
+
 [ ] create a docker container that can build and obfuscate code
