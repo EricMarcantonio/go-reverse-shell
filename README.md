@@ -14,11 +14,11 @@ Edit the `util.go` file, to match your preferences
 
 ## Future Plans
 
-[X] create client executables
+- [x] create client executables
 
-[ ] create a make file that builds across platforms
+- [ ] create a make file that builds across platforms
 
-[ ] create a docker container that can build and obfuscate code
+- [ ] create a docker container that can build and obfuscate code
 
 
 
